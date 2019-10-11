@@ -1,0 +1,14 @@
+C:\Users\vladi\Desktop\Practica8\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\vladi\Desktop\Practica8\Practica8\bin\Debug\Practica8.exe
+C:\Users\vladi\Desktop\Practica8\Practica8\bin\Debug\Practica8.pdb
+C:\Users\vladi\Desktop\Practica8\Practica8\obj\Debug\Practica8.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\Practica8\Practica8\obj\Debug\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\Practica8\Practica8\obj\Debug\Practica8.exe
+C:\Users\vladi\Desktop\Practica8\Practica8\obj\Debug\Practica8.pdb
+F:\Practica8\Practica8\bin\Debug\Practica8.exe.config
+F:\Practica8\Practica8\bin\Debug\Practica8.exe
+F:\Practica8\Practica8\bin\Debug\Practica8.pdb
+F:\Practica8\Practica8\obj\Debug\Practica8.csprojAssemblyReference.cache
+F:\Practica8\Practica8\obj\Debug\Practica8.csproj.CoreCompileInputs.cache
+F:\Practica8\Practica8\obj\Debug\Practica8.exe
+F:\Practica8\Practica8\obj\Debug\Practica8.pdb
